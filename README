@@ -1,0 +1,6 @@
+== Currently under development, not ready for use for another couple of weeks.
+
+== ED
+Ed will protect historical versions of records in a SQL database. Use it when you need to retain hitory and can't use couch for some reason.
+
+
